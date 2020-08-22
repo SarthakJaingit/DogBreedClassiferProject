@@ -4,6 +4,9 @@ The project uses two methods for classification:
 - **Creation of CNN from Scratch**
 - **Using Transfer Learning for Classification**
 
+ ### This a sample output:
+![](Assets/ScreenShot.png)
+
 ## Dependencies 
 Make sure you have conda installed. You can learn how to do this by clicking the: 
 - [Anaconda Installing Guide](https://docs.anaconda.com/anaconda/install/)
